@@ -7,7 +7,7 @@ ActiveMQ的使用代码样例（异步邮件发送）
 mail.host=smtp.qq.com
 mail.port=25
 mail.username=824291336@qq.com
-mail.password=*****  #qq邮箱授权码
+mail.password=bmllsyyrlwyjbbgc  #qq邮箱授权码
 mail.smtp.auth=true
 mail.smtp.timeout=30000
 mail.default.from=824291336@qq.com
